@@ -1,1 +1,3 @@
 # Landing-Page
+
+I’ve created a dynamic and interactive landing page featuring interactive cards. Each card displays a stunning image paired with an article, organized for easy browsing and a seamless user experience. Upon clicking any card, the user is directed to a detailed view with expanded information and an animated background, adding a vibrant touch to the content. The animated background offers a unique and engaging experience, ensuring users are visually captivated. This project is designed with smooth transitions and user-friendly navigation, making it an ideal choice for showcasing articles or content in an appealing way.
